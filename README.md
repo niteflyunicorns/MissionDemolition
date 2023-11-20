@@ -1,5 +1,23 @@
 # MissionDemolition
 
+## Level Difficulty Elements: ##
+* Level 1:
+    * frequency of special projectiles is 75%
+    * velocity needed to destroy walls is 3
+    * easy castle
+* Level 2:
+    * frequency of special projectiles is 50%
+    * velocity needed to destroy walls is 6
+    * medium castle
+* Level 3:
+    * frequency of special projectiles is 25%
+    * velocity needed to destroy walls is 12
+    * hard castle
+* Level 4:
+    * frequency of special projectiles is 10%
+    * velocity needed to destroy walls is 100 ( ie. impossible! )
+    * very difficult castle ( and deceivingly so... )
+
 ## Projectiles: ##
 * Black: standard projectile
 * Yellow: accelerates after certain time in motion
